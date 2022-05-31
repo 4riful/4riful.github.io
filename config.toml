@@ -1,4 +1,4 @@
-baseURL = " https://4riful.github.io/"
+baseURL = "example.com"
 languageCode = "en-us"
 title = "Ariful Anik"
 theme = "m10c"
