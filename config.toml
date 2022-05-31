@@ -1,0 +1,50 @@
+baseURL = " https://4riful.github.io/"
+languageCode = "en-us"
+title = "Ariful Anik"
+theme = "m10c"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+[params]
+author = "Ariful Anik"
+description = "Atleast a Human Being !!"
+menu_item_separator = "||"
+avatar="https://s8.gifyu.com/images/blogzcff0f6a115ef2ebc.gif"
+[[params.social]]
+icon = "github"
+name = "Github"
+url = "https://github.com/4riful/"
+[[params.social]]
+icon = "twitter"
+name = "Twitter"
+url = "https://twitter.com/ariful4nik"
+[[params.social]]
+icon = "facebook"
+name = "Facebook"
+url = "https://www.facebook.com/xettabyte1/"
+[[params.social]]
+icon = "Discord"
+name = "Discord"
+url = "https://discord.gg/XseJqMFC"
+
+# Dracula theme
+[params.style]
+darkestColor = "#282a36"
+darkColor = "#44475a"
+lightColor = "#f1fa8c"
+lightestColor = "#f8f8f2"
+primaryColor = "#50fa7b"
